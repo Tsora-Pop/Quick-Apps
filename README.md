@@ -1,5 +1,5 @@
 # Quick-Apps
-## What is Quick-Apps
+## What is Quick-Apps?
 Quick-Apps.ps1 is a PowerShell script I put together to mimic the function of Startup Apps when you first login to Windows, and the original concept came from inspiration from my Quick-Sites script. 
 This is best used in circumstances where you would likely already have logged in and you have a series of applications you need to open
 
